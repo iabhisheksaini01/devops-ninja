@@ -1,0 +1,3 @@
+[submodule "devops-ninja"]
+	path = devops-ninja
+	url = https://github.com/iabhisheksaini01/devops-ninja.git
